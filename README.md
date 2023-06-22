@@ -5,7 +5,7 @@ Projeto com o objetivo de criar um banco de dados para um hospital, separando o 
 Um pequeno hospital local busca desenvolver um novo sistema que atenda melhor às suas necessidades. Atualmente, parte da operação ainda se apoia em planilhas e arquivos antigos, mas espera-se que esses dados sejam transferidos para o novo sistema assim que ele estiver funcional. Neste momento, é necessário analisar com cuidado as necessidades desse cliente e sugerir uma estrutura de banco de dados adequada por meio de um Diagrama Entidade-Relacionamento.
 Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no exercício.
 
-![alt text](modeloconceitual.png)
+![alt text](modelo.conceitual.png)
 #
 # Os Segredos do Hospital II
 Atualização do Modelo Conceitual com novas informações
