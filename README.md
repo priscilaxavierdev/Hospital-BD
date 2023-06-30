@@ -19,7 +19,7 @@ Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no ex
 ###### De acordo com essas informações esquematizei em forma de modelo conceitual.
 
 ##
-<h1>Hospital Fundamental Parte 2</h1>
+<h1>Hospital Fundamental Parte II</h1>
 
 <p>No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos.</p> 
 
@@ -35,8 +35,9 @@ Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no ex
      
 ##
 <h3>Mãos a obra?</h3>
-<p>Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações.</p> 
-## Segue o diagrama completo com todas sua ligações
+<p>Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações.</p>
+
+## Segue a atualização e melhora do diagrama completo com todas sua ligações
 ![alt text](DR.png)
 ##
 <p>Por último, crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo (considerando as entidades do diagrama da atividade anterior e as novas entidades propostas no diagrama acima). Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.</p> 
