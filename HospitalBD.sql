@@ -239,7 +239,7 @@ insert into codigo_internacao (id_codigo, data_entrada, data_prev_alta, data_alt
 insert into codigo_internacao (id_codigo, data_entrada, data_prev_alta, data_alta, procedimento) values ('7', '15042022', '16052022', '17052022', 'Cirurgia');
 
 insert into enfermeiro (id_enfermeiro, nome, CPF, RG, data_nascimento, genero, telefone, CREA) values ('1', 'Gabriele Camargo', '98753716390', '827653982', '09102003', 'Feminino', '11983046527', '944838476');
-insert into enfermeiro (id_enfermeiro, nome, CPF, RG, data_nascimento, genero, telefone, CREA) values ('2', 'Guilherme Camargo', '37462597624', '428974802', '10021987','Masculino', '11982736473', '394843287');
+insert into enfermeiro (id_enfermeiro, nome, CPF, RG, data_nascimento, genero, telefone, CREA) values ('2', 'Priscila Xavier', '37462597624', '428974802', '10021987','Feminino', '11982736473', '394843287');
 insert into enfermeiro (id_enfermeiro, nome, CPF, RG, data_nascimento, genero, telefone, CREA) values ('3', "Maria Santos", "98765432101", "543210987", "15051985", "Feminino", "11987654321", "0987654321");
 insert into enfermeiro (id_enfermeiro, nome, CPF, RG, data_nascimento, genero, telefone, CREA) values ('4', "Pedro Oliveira", "45678912345", "654321098", "02071992", "Masculino", "11976543210", "5678901234");
 insert into enfermeiro (id_enfermeiro, nome, CPF, RG, data_nascimento, genero, telefone, CREA) values ('5', "Ana Pereira", "78912345678", "321098765", "11031980", "Feminino", "11965432109", "9876543210");
