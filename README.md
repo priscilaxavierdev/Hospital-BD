@@ -41,11 +41,7 @@ Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no ex
 <h3>Mãos a obra?</h3>
 <p>Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações.</p> 
 
-<div align="center">
-  <img width="700px" height="400px" src= "https://github.com/GuiCamargoDev/O-Hospital-Fundamental-pt2/assets/124837745/652d7cd4-5833-4860-bc7f-ad55b43045ce" />
-  </div>
-<h6>Clique na imagem para visualizar melhor</h6>
-
+![alt text](DR.png)
 ##
 <p>Por último, crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo (considerando as entidades do diagrama da atividade anterior e as novas entidades propostas no diagrama acima). Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.</p> 
 
