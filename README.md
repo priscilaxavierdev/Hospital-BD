@@ -14,16 +14,8 @@ Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no ex
 
 <h5>3.) As consultas também têm sido registradas em planilhas, com data e hora de realização, médico responsável, paciente, valor da consulta ou nome do convênio, com o número da carteira. Também é necessário indicar na consulta qual a especialidade buscada pelo paciente.</h5>
 
-<div align="center">
-   <img width="800px" height="400px" src= "https://github.com/GuiCamargoDev/Diagrama-ER--Hospital-PT1/assets/124837745/a57e1bbf-d71d-4b21-bb72-ba94229e2ac0" />
-</div>
-
 <h5>4.) Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramento da consulta, ele possa registrar os medicamentos receitados, a quantidade e as instruções de uso. A partir disso, espera-se que o sistema imprima um relatório da receita ao paciente ou permita sua visualização via internet.</h5>
-
-<div align="center">
-
-  <img width="800px" height="400px" src= "https://github.com/GuiCamargoDev/Diagrama-ER--Hospital-PT1/assets/124837745/9c3eddac-de07-4049-947e-e0a95c8cef6c" />
-</div>
+## De acordo com essas informações esquematizei em forma de modelo conceitual.
 
 ##
 <h1>Hospital Fundamental Parte 2</h1>
