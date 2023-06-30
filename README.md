@@ -35,7 +35,7 @@ Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no ex
      
 ##
 <h3>Mãos a obra?</h3>
-<p>Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações.</p>
+<p>Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade anterior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações.</p>
 
 ## Segue a atualização e melhora do diagrama completo com todas sua ligações
 ![alt text](DR.png)
@@ -289,7 +289,7 @@ Ref: "Internacao"."Enfermeiro" < "Enfermeiro"."Id"
 <h6>select * from medicos where nome like '%Gabriel%';</h6>
   
 <p>11.Os nomes, CREs e número de internações de enfermeiros que participaram de mais de uma internação.</p>
-<h6>Os enfermeiros Guilherme Camargo, Lucas Mendes, Pedro Oliveira Gabriela Silva participaram de mais de uma internação</h6>
+<h6>Os enfermeiros Priscila Xavier, Lucas Mendes, Pedro Oliveira e Gabriela Silva participaram de mais de uma internação</h6>
 <h6>select * from internacao;</h6>
 <h6>select * from enfermeiro;</h6>
 
