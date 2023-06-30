@@ -43,7 +43,7 @@ Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no ex
 <p>Por último, crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo (considerando as entidades do diagrama da atividade anterior e as novas entidades propostas no diagrama acima). Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.</p> 
 
 <p>Você pode utilizar o MySQL Workbench ou o DBdiagram.io para montar os scripts SQL.</p>
-<p>Segue também o link para melhor visualização e navegação https://dbdiagram.io/d/64558d84dca9fb07c498d3d2</p>
+<p>Segue também o link para melhor visualização e navegação https://dbdiagram.io/d/649f5ebc02bd1c4a5e53b77</p>
 
 ##
 <h3>Parte Lógica do script</h3>
