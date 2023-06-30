@@ -32,15 +32,11 @@ Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no ex
 <p>Também é necessário controlar quais profissionais de enfermaria estarão responsáveis por acompanhar o paciente durante sua internação. Para cada enfermeiro(a), é necessário nome, CPF e registro no conselho de enfermagem (CRE).</p>
 
 <p>A internação, obviamente, é vinculada a um paciente – que pode se internar mais de uma vez no hospital – e a um único médico responsável.</p>
-
-<div align="center">
-<img width='700px' height='400px' src= "https://github.com/GuiCamargoDev/O-Hospital-Fundamental-pt2/assets/124837745/d74856f8-2942-4a95-b03f-acbe7648643c" />
-</div>
      
 ##
 <h3>Mãos a obra?</h3>
 <p>Faça a ligação do diagrama acima ao diagrama desenvolvido na atividade antrior, construindo relacionamentos com entidades relacionadas. E eleve o seu diagrama para que já selecionando os tipos de dados que serão trabalhados e em quais situações.</p> 
-
+## Segue o diagrama completo com todas sua ligações
 ![alt text](DR.png)
 ##
 <p>Por último, crie um script SQL para a geração do banco de dados e para instruções de montagem de cada uma das entidades/tabelas presentes no diagrama completo (considerando as entidades do diagrama da atividade anterior e as novas entidades propostas no diagrama acima). Também crie tabelas para relacionamentos quando necessário. Aplique colunas e chaves primárias e estrangeiras.</p> 
