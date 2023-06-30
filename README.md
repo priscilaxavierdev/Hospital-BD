@@ -46,7 +46,7 @@ Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no ex
 <p>Segue também o link para melhor visualização e navegação https://dbdiagram.io/d/64558d84dca9fb07c498d3d2</p>
 
 ##
-<h3>Parte Lógica segue</h3>
+<h3>Parte Lógica do script</h3>
 
 <p>Table Medicos {
   <h6>Id numeric</h6>
