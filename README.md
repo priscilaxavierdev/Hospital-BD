@@ -51,11 +51,6 @@ Tendo isso em vista fiz um diagrama de relacionamento com os dados citados no ex
 <p>Use ferramentas, como ERPlus, Lucidchart, draw.io (via web) e MySQL Workbench, ou mesmo um editor de imagens para o diagrama.</p> 
 
 <p>Você pode utilizar o MySQL Workbench ou o DBdiagram.io para montar os scripts SQL.</p>
-
-<div align="center">
-  <img width="700px" height="400px" src="https://github.com/GuiCamargoDev/O-Hospital-Fundamental-pt2/assets/124837745/a4050703-a47a-4095-9a74-7a84b12dcdb0" />
-</div>
-<h6>Clique na imagem para visualizar melhor</h6>
 <p>Segue também o link para melhor visualização e navegação https://dbdiagram.io/d/64558d84dca9fb07c498d3d2</p>
 
 ##
@@ -207,19 +202,17 @@ Ref: "Internacao"."Codigo_Internacao" < "Codigo_Internacao"."Id"
 Ref: "Internacao"."Enfermeiro" < "Enfermeiro"."Id"
 
 ##
-<h1>Hospital Fundamental Parte 3</h1>
+<h1>Hospital Fundamental Parte III</h1>
 
-<p>Nesta etapa foi feito o Banco de Dados no MySQL, com todas as referenciações e entidades</p>
+<p>Nesta parte foi criado o Banco de Dados no MySQL, com todas as referenciações e entidades necessárias</p>
 
 ##
-<h1>Hospital Fundamental Parte 4</h1>
+<h1>Hospital Fundamental Parte IV</h1>
 
 <p>Nesta etapa foi adicionada a coluna em_atividade e os elementos "Ativo" e "Inativo" para alguns medicos</p>
 
 ##
-<h1>Hospital Fundamental Parte 5</h1>
-
-<h1>As Relíquias dos Dados</h1>
+<h1>As Relíquias dos Dados Parte V</h1>
 
 <p>Uma vez que o banco estiver bem estruturado e desenhado, é possível realizar testes, simulando relatórios ou telas que o sistema possa necessitar. A tarefa consiste em criar consultas que levem aos resultados esperados.</p>
 
