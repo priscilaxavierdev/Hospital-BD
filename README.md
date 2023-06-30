@@ -194,12 +194,12 @@ Ref: "Internacao"."Codigo_Internacao" < "Codigo_Internacao"."Id"
 Ref: "Internacao"."Enfermeiro" < "Enfermeiro"."Id"
 
 ##
-<h1>Hospital Fundamental Parte III</h1>
+<h1>O Prisioneiro dos Dados Parte III</h1>
 
 <p>Nesta parte foi criado o Banco de Dados no MySQL, com todas as referenciações e entidades necessárias</p>
 
 ##
-<h1>Hospital Fundamental Parte IV</h1>
+<h1>A Ordem do Alterar Parte IV</h1>
 
 <p>Nesta etapa foi adicionada a coluna em_atividade e os elementos "Ativo" e "Inativo" para alguns medicos</p>
 
